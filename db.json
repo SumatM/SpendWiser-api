@@ -1,0 +1,35 @@
+{
+  "userData": [
+    {
+      "id": 1,
+      "name": "Shrinivas Katkamwar",
+      "email": "sinnu1908@gmail.com",
+      "mobile": 9156666233,
+      "password": "Shri@123"
+    },
+    {
+      "name": "Sumat",
+      "email": "sinnu1908@gmail.com",
+      "mobile": 9156666233,
+      "password": "Shri@123",
+      "id": 2
+    }
+  ],
+  "income": [
+    {
+      "id": 1,
+      "title": "Salary",
+      "amount": 5000,
+      "category": "Salary",
+      "description": "my May's salary"
+    }
+  ],
+  "expence": [
+    {
+      "id": 1,
+      "category": "Food",
+      "amount": 121,
+      "description": "chopstice's soup and burger"
+    }
+  ]
+}
