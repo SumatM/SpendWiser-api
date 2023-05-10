@@ -1,28 +1,96 @@
 {
   "userData": [
     {
-      "id": 1,
-      "name": "Shrinivas Katkamwar",
-      "email": "sinnu1908@gmail.com",
-      "mobile": 9156666233,
-      "password": "Shri@123"
-    }
-  ],
-  "income": [
+      "name": "dfd",
+      "email": "shri@gmail.com",
+      "password": "asd",
+      "income": [
+        {
+          "id": 1683690167866,
+          "title": "dsfsdfs",
+          "amount": 34,
+          "date": "2023-05-04T18:30:00.000Z",
+          "category": "freelancing",
+          "description": "dfdc"
+        },
+        {
+          "id": 1683691685101,
+          "title": "dfdfs",
+          "amount": 345,
+          "date": "2023-05-11T18:30:00.000Z",
+          "category": "freelancing",
+          "description": "ddsfds"
+        }
+      ],
+      "expense": [
+        {
+          "id": 1683692177025,
+          "title": "dkjkjkljd",
+          "amount": 345,
+          "date": "2023-05-02T18:30:00.000Z",
+          "category": "shopping",
+          "description": "dsfds"
+        }
+      ],
+      "id": 1
+    },
     {
-      "id": 1,
-      "title": "Salary",
-      "amount": 5000,
-      "category": "Salary",
-      "description": "my May's salary"
-    }
-  ],
-  "expence": [
+      "name": "Ganesh Bahera",
+      "email": "ganesh@gmail.com",
+      "password": "Ganesh@123",
+      "income": [],
+      "expense": [],
+      "id": 2
+    },
     {
-      "id": 1,
-      "category": "Food",
-      "amount": 121,
-      "description": "chopstice's soup and burger"
+      "name": "dfsfd",
+      "email": "ddsf@gmail.com",
+      "password": "123",
+      "income": [],
+      "expense": [],
+      "id": 3
+    },
+    {
+      "name": "dfd",
+      "email": "s@gmail.com",
+      "password": "asd",
+      "income": [
+        {
+          "id": 1683701910071,
+          "title": "asd",
+          "amount": 2,
+          "date": "2023-05-23T18:30:00.000Z",
+          "category": "freelancing",
+          "description": "sd"
+        },
+        {
+          "id": 1683709451349,
+          "title": "asdf",
+          "amount": 23,
+          "date": "2023-05-24T18:30:00.000Z",
+          "category": "freelancing",
+          "description": "asdf"
+        }
+      ],
+      "expense": [
+        {
+          "id": 1683693251280,
+          "title": "dfdss",
+          "amount": 34,
+          "date": "2023-05-02T18:30:00.000Z",
+          "category": "shopping",
+          "description": "dfd"
+        }
+      ],
+      "id": 4
+    },
+    {
+      "name": "sdd",
+      "email": "s@gmail.com",
+      "password": "sdf",
+      "income": [],
+      "expense": [],
+      "id": 5
     }
   ]
 }
