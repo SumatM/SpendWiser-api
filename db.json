@@ -7,7 +7,7 @@
       "income": [
         {
           "id": 1683690167866,
-          "title": "dsfsdfs",
+          "title": "Slaray",
           "amount": 34,
           "date": "2023-05-04T18:30:00.000Z",
           "category": "freelancing",
@@ -15,7 +15,7 @@
         },
         {
           "id": 1683691685101,
-          "title": "dfdfs",
+          "title": "House Rent",
           "amount": 345,
           "date": "2023-05-11T18:30:00.000Z",
           "category": "freelancing",
@@ -25,11 +25,32 @@
       "expense": [
         {
           "id": 1683692177025,
-          "title": "dkjkjkljd",
+          "title": "Explanaid Mall",
           "amount": 345,
           "date": "2023-05-02T18:30:00.000Z",
           "category": "shopping",
-          "description": "dsfds"
+          "description": "shopping"
+        },{
+          "id": 1683692177035,
+          "title": "food",
+          "amount": 345,
+          "date": "2023-05-04T18:30:00.000Z",
+          "category": "food",
+          "description": "food"
+        },{
+          "id": 1683692177027,
+          "title": "Mobile Recharge",
+          "amount": 345,
+          "date": "2023-05-04T18:30:00.000Z",
+          "category": "recharge",
+          "description": "food"
+        },{
+          "id": 1683692177027,
+          "title": "Wifi Recharge",
+          "amount": 345,
+          "date": "2023-05-07T18:30:00.000Z",
+          "category": "recharge",
+          "description": "Wifi Recharge"
         }
       ],
       "id": 1
